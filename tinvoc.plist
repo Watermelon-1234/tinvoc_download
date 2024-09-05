@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download App</title>
+</head>
+<body>
+    <h1>Install Your App</h1>
+    <p>Click the button below to install the app:</p>
+    <a href="itms-services://?action=download-manifest&url=https://yourdomain.com/path/to/yourapp.plist">
+        <button>Install App</button>
+    </a>
+</body>
+</html>
